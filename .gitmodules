@@ -1,0 +1,12 @@
+[submodule "UniXNU"]
+	path = UniXNU
+	url = https://github.com/UniXNU/UniXNU.git
+	branch = main
+[submodule "UniXNU-sheng"]
+	path = UniXNU-sheng
+	url = https://github.com/UniXNU/UniXNU-sheng.git
+	branch = main
+[submodule "uefi-sheng"]
+	path = uefi-sheng
+	url = https://github.com/UniXNU/uefi-sheng.git
+	branch = sheng
